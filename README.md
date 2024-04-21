@@ -1,7 +1,7 @@
 ![thumbnail-Desafio One](https://i.imgur.com/p89udMN.jpeg)
 
 
-Claro, aqui está o texto convertido para Markdown:
+
 
 ---
 
