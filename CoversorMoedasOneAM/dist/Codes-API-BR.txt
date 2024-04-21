@@ -1,0 +1,163 @@
+Codigo		Nome da moeda				País
+
+AED		Dirham dos Emirados Árabes Unidos	Emirados Árabes Unidos
+AFN		Afegão afegão				Afeganistão
+ALL		Lek Albanês				Albânia
+AMD		Dram Armênio				Armênia
+ANG		Florim das Antilhas Holandesas		Antilhas Holandesas
+AOA		Kwanza angolano				Angola
+ARS		Peso Argentino				Argentina
+AUD		Dólar australiano			Austrália
+AWG		Florim arubano				Aruba
+AZN		Manat do Azerbaijão			Azerbaijão
+BAM		Marco da Bósnia e Herzegovina		Bósnia e Herzegovina
+BBD		Dólar de Barbados			Barbados
+BDT		Taka de Bangladesh			Bangladesh
+BGN		Lev Búlgaro				Bulgária
+BHD		Dinar do Bahrein			Bahrein
+BIF		Franco Burundiano			Burundi
+BMD		Dólar das Bermudas			Bermudas
+BND		Dólar de Brunei				Brunei
+BOB		boliviano boliviano			Bolívia
+BRL		real brasileiro				Brasil
+BSD		Dólar das Bahamas			Bahamas
+BTN		Ngultrum butanês			Butão
+BWP		Pula do Botsuana			Botsuana
+BYN		Rublo Bielorrusso			Bielorrússia
+BZD		Dólar belizenho				Belize
+CAD		Dólar canadense				Canadá
+CDF		Franco Congolês				República Democrática do Congo
+CHF		Franco suíço				Suíça
+CLP		Peso Chileno				Chile
+CNY		Renminbi Chinês				China
+COP		Peso Colombiano				Colômbia
+CRC		Cólon Costarriquenho			Costa Rica
+CUP		Peso cubano				Cuba
+CVE		Escudo cabo-verdiano			cabo Verde
+CZK		Coroa Tcheca				República Checa
+DJF		Franco Djibutiano			Djibuti
+DKK		Coroa Dinamarquesa			Dinamarca
+DOP		Peso Dominicano				República Dominicana
+DZD		Dinar Argelino				Argélia
+EGP		Libra egípcia				Egito
+ERN		Nakfa da Eritreia			Eritreia
+ETB		Birr etíope				Etiópia
+EUR		Euro					União Europeia
+FJD		Dólar de Fiji				Fiji
+FKP		Libra das Ilhas Malvinas		Ilhas Malvinas
+FOK		Coroa faroense				ilhas Faroe
+GBP		Libra esterlina				Reino Unido
+GEL		Lari georgiano				Geórgia
+GGP		Libra de Guernsey			Guernsey
+GHS		Cedi ganês				Gana
+GIP		Libra de Gibraltar			Gibraltar
+GMD		Dalasi gambiano				A Gâmbia
+GNF		Franco Guineense			Guiné
+GTQ		Quetzal da Guatemala			Guatemala
+GYD		Dólar guianense				Guiana
+HKD		Dólar de Hong Kong			Hong Kong
+HNL		Lempira hondurenha			Honduras
+HRK		Kuna Croata				Croácia
+HTG		Gourde haitiano				Haiti
+HUF		Forint Húngaro				Hungria
+IDR		Rupia Indonésia				Indonésia
+ILS		Novo shekel israelense			Israel
+IMP		Libra manx				Ilha de Man
+INR		Rupia indiana				Índia
+IQD		Dinar Iraquiano				Iraque
+IRR		Rial iraniano				Irã
+ISK		Coroa Islandesa				Islândia
+JEP		Libra de Jersey				Jersey
+JMD		Dólar jamaicano				Jamaica
+JOD		Dinar Jordaniano			Jordânia
+JPY		Yen japonês				Japão
+KES		Xelim Queniano				Quênia
+KGS		Som do Quirguistão			Quirguistão
+KHR		Riel cambojano				Camboja
+KID		Dólar Quiribati				Quiribáti
+KMF		Franco Comoriano			Comores
+KRW		Won sul-coreano				Coreia do Sul
+KWD		Dinar do Kuwait				Kuwait
+KYD		Dólar das Ilhas Cayman			Ilhas Cayman
+KZT		Tenge do Cazaquistão			Cazaquistão
+LAK		Laos Kip				Laos
+LBP		Libra Libanesa				Líbano
+LKR		Rupia do Sri Lanka			Sri Lanka
+LRD		Dólar da Libéria			Libéria
+LSL		Lesoto Loti				Lesoto
+LYD		Dinar Líbio				Líbia
+MAD		Dirham Marroquino			Marrocos
+MDL		Leu da Moldávia				Moldávia
+MGA		Ariary malgaxe				Madagáscar
+MKD		Denar macedônio				Macedônia do Norte
+MMK		Kyat birmanês				Mianmar
+MNT		Tögrög da Mongólia			Mongólia
+MOP		Pataca macaense				Macau
+MRU		Ouguiya da Mauritânia			Mauritânia
+MUR		Rupia das Maurícias			Maurício
+MVR		Rufiyaa das Maldivas			Maldivas
+MWK		Kwacha do Malawi			Maláui
+MXN		Peso Mexicano				México
+MYR		Ringgit malaio				Malásia
+MZN		Metical Moçambicano			Moçambique
+NAD		Dólar namibiano				Namíbia
+NGN		Naira nigeriana				Nigéria
+NIO		Córdoba Nicaraguense			Nicarágua
+NOK		Coroa Norueguesa			Noruega
+NPR		Rúpia Nepalesa				Nepal
+NZD		Dólar da Nova Zelândia			Nova Zelândia
+OMR		Rial de Omã				Omã
+PAB		Balboa panamenho			Panamá
+PEN		Sol peruano				Peru
+PGK		Kina da Papua Nova Guiné		Papua Nova Guiné
+PHP		Peso filipino				Filipinas
+PKR		Rupia Paquistanesa			Paquistão
+PLN		Złoty polonês				Polônia
+PYG		Guarani paraguaio			Paraguai
+QAR		Rial do Catar				Catar
+RON		Leu romeno				Romênia
+RSD		Dinar Sérvio				Sérvia
+RUB		rublo russo				Rússia
+RWF		Franco Ruandês				Ruanda
+SAR		Rial saudita				Arábia Saudita
+SBD		Dólar das Ilhas Salomão			Ilhas Salomão
+SCR		Rupia Seichelense			Seicheles
+SDG		Libra Sudanesa				Sudão
+SEK		Coroa Sueca				Suécia
+SGD		Dólar de Singapura			Cingapura
+SHP		Libra de Santa Helena			Santa Helena
+SLE		Leoa da Serra Leoa			Serra Leoa
+SOS		Xelim Somali				Somália
+SRD		Dólar do Suriname			Suriname
+SSP		Libra do Sudão do Sul			Sudão do Sul
+STN		São Tomé e Príncipe Dobra		São Tomé e Príncipe
+SYP		Libra Síria				Síria
+SZL		Essuatíni Lilangeni			Essuatíni
+THB		Baht tailandês				Tailândia
+TJS		Somoni tadjique				Tadjiquistão
+TMT		Manat do Turquemenistão			Turcomenistão
+TND		Dinar Tunisino				Tunísia
+TOP		Paanga de Tonga				Tonga
+TRY		Lira Turca				Peru
+TTD		Dólar de Trinidad e Tobago		Trinidad e Tobago
+TVD		Dólar tuvaluano				Tuvalu
+TWD		Novo dólar taiwanês			Taiwan
+TZS		Xelim da Tanzânia			Tanzânia
+UAH		Hryvnia ucraniana			Ucrânia
+UGX		Xelim Ugandês				Uganda
+USD		Dolar dos Estados Unidos		Estados Unidos
+UYU		Peso Uruguaio				Uruguai
+UZS		Sou do Uzbequistão			Uzbequistão
+VES		Bolívar Soberano venezuelano		Venezuela
+VND		Dong vietnamita				Vietnã
+VUV		Vatu de Vanuatu				Vanuatu
+WST		Tala Samoana				Samoa
+XAF		Franco CFA da África Central		CEMAC
+XCD		Dólar do Caribe Oriental		Organização dos Estados do Caribe Oriental
+XDR		Direitos de Saque Especiais		Fundo Monetário Internacional
+XOF		Franco CFA da África Ocidental		CFA
+XPF		Franco CFP				Coletividades dOutre-Mer
+YER		Rial Iemenita				Iémen
+ZAR		Rand sul-africano			África do Sul
+ZMW		Kwacha da Zâmbia			Zâmbia
+ZWL		Dólar do Zimbábue			Zimbábue
