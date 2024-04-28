@@ -51,7 +51,7 @@ Desenvolver um Conversor de Moedas que ofereça interação textual (via console
 ## Observações:
 
 - Lembrar de apontar a classe main do projeto para "ConversorMoedasApp.java" e nas dependências ter instalado o Gson (gson-2.10.1.jar). Neste repo na pasta Dist existe uma versão do jar compilada para Windows 11(Utilize por sua conta e risco). 
-- Foi construído pensando em desenvolvimento em camadas, mas não está de maneira completa, pois falta uma camada para persistência de Dados, onde o app poderia Recuperar e ler os logs anteriores, e a Criação e uma Fachada que pudesse ser instanciada corretamente, seja numa CLI ou GUI.
+- Foi construído pensando em desenvolvimento em camadas, mas não está de maneira completa, pois falta uma camada para persistência de Dados, onde o app poderia Recuperar e ler os logs anteriores, e a Criação de uma Fachada que pudesse ser instanciada corretamente, seja numa CLI ou GUI.
 - A chave de acesso da API tem, como dito antes, uma quota muito baixa e sem possibilidade de renovação, é provável que em menos de 20 dias o programa deixe de funcionar, se a chave de acesso não for substituída.
 
 Abraços!
